@@ -26,3 +26,6 @@
 
 ### 💻 Tech Stack
 <img src="https://skillicons.dev/icons?i=c,cpp,java,postgresql,js,html,css"/>
+
+### 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C3%ADtor-albuquerque-dinelli-01351a370/)
