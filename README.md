@@ -1,28 +1,35 @@
-```java
-import github.vitor007345.Desenvolvedor;
-import github.vitor007345.interfaces.Estudante;
-import java.util.List;
+## Olá, meu nome é Vítor Dinelli!
 
-public class SobreMim extends Desenvolvedor implements Estudante {
-    // Dados Pessoais & Acadêmicos
-    public String nome = "Vítor Albuquerque Dinelli";
-    public String localidade = "Belo Horizonte, MG - Brasil";
-    public String graduacao = "Engenharia da Computação - CEFET-MG (Previsão: 2030)";
-    
-    // Stack Tecnológica
-    public List<String> linguagens = List.of("Java", "C", "C++", "JavaScript", "SQL");
-    public List<String> backend = List.of("Spark Framework", "APIs REST", "PostgreSQL");
-    public List<String> ferramentas = List.of("Git", "GitHub", "VS Code", "Arduino IDE");
-    
-    // Projetos & Conquistas (Robótica e Acadêmico)
-    public String projetoDestaque = "Rota-Reciclagem (Melhor trabalho de TI2 Backend - PUC Minas)";
-    public String robotica = "Competidor e Programador de Robôs Autônomos (CORA - UFMG)";
-    public List<String> podiosRobotica = List.of("2º Lugar (2024)", "3º Lugar (2023)");
-    
-    // Idiomas
-    public List<String> idiomas = List.of("Português (Nativo)", "Inglês (B2)", "Espanhol (Intermediário)");
-}
-```
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=Vitor007345&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor007345&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Vitor007345&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+--- 
 
 <!--
 **Vitor007345/Vitor007345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
